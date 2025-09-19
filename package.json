@@ -2,10 +2,10 @@
   "name": "helllo-bot",
   "version": "1.1.0",
   "description": "Telegram bot with media support, formatting, and uptime page",
-  "main": "bot.js",
+  "main": "start.js",
   "scripts": {
-    "start": "node bot.js",
-    "dev": "node bot.js",
+    "start": "node start.js",
+    "dev": "node start.js",
     "build": "echo 'Build completed'"
   },
   "engines": {
